@@ -15,6 +15,7 @@ ___
 * ### Link to Part 3: Flashing with ESPHome: _Will Be Public Soon_
 ___
 
+
 #### 💖 Found this useful, want to say '*Thanks*' and support my efforts. *CHEERS*🍺
 | Buy me a Coffee | PATREON |
 |-----------------|---------|
