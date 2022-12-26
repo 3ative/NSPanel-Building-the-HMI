@@ -12,9 +12,8 @@ Download the Nextion Editor here: https://nextion.tech/nextion-editor/
 ___
 * ### Tutorial Part 1: [Making the Graphics](https://www.youtube.com/watch?v=wPXUMat6his)
 * ### Tutorial Part 2: [Building the HMI](https://youtu.be/oj9-shP5icU)
-* ### Link to Part 3: Flashing with ESPHome: _Will Be Public Soon_
+* ### Link to Part 3: [Flashing with ESPHome](https://www.youtube.com/watch?v=z4z68dyZ7dw)
 ___
-
 
 #### 💖 Found this useful, want to say '*Thanks*' and support my efforts. *CHEERS*🍺
 | Buy me a Coffee | PATREON |
